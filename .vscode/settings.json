@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:/Python27/python.exe",
+    "python.autoComplete.extraPaths": [
+        "C:/Python27/Lib/site-packages" 
+    ],
+    "python.globalModuleInstallation": true,
+    "python.jediEnabled": false,
+    "python.linting.pylintPath": "C:\\Python27\\Lib\\site-packages\\pylint"
+}
